@@ -16,3 +16,5 @@
 11. sebelum itu diflutter run harus diflutter pub add google_fonts
 
 dan ini hasilnya:
+<img width="1019" height="656" alt="email2" src="https://github.com/user-attachments/assets/cdf3c999-c724-433d-9df4-47469a444928" />
+<img width="1027" height="660" alt="email1benar" src="https://github.com/user-attachments/assets/30b71cd1-db4a-4e63-a22a-02b1e076d16f" />
